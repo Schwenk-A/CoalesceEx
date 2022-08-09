@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\bin\Debug\net6.0\CoalesceExample.exe
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\bin\Debug\net6.0\CoalesceExample.deps.json
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\bin\Debug\net6.0\CoalesceExample.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\bin\Debug\net6.0\CoalesceExample.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\bin\Debug\net6.0\CoalesceExample.pdb
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\refint\CoalesceExample.dll
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.pdb
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\CoalesceExample.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\TrueCoders\Full-Stack\CoalesceExample\CoalesceExample\obj\Debug\net6.0\ref\CoalesceExample.dll
